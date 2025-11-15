@@ -54,7 +54,7 @@ install.bat
 ### 3. Sistemi Başlatın
 ```bash
 # Windows'ta:
-start.bat
+SETUP_AND_START.bat
 
 # Tarayıcınızda otomatik açılacak:
 # http://localhost:3000
